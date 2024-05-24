@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinTest</string>
+    <string name="reg">REGISTER</string>
+    <string name="next">NEXT</string>
+</resources>
